@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "author_name": "Rajib Rahman",
+        "title": "How did you become a poor JavaScript programmer?",
+        "poster": "https://blog.eduonix.com/wp-content/uploads/2021/09/19199360-scaled.jpg",
+        "author_image": "https://avatars.githubusercontent.com/u/89888511?v=4",
+        "read_time": 5,
+        "publish_date": "Feb 14 (12 Days ago)"
+    },
+    {
+        "id": 2,
+        "author_name": "Mehedi Hasan Himel",
+        "title": "How did you get a job at Google as a full stack developer?",
+        "poster": "https://i.ytimg.com/vi/-gRW2DgfCO0/maxresdefault.jpg",
+        "author_image": "https://avatars.githubusercontent.com/u/60336240?v=4",
+        "read_time": 10,
+        "publish_date": "Mar 01 (4 Days ago)"
+    },
+    {
+        "id": 3,
+        "author_name": "Sahinur Islam",
+        "title": "How did you become a successful software engineer?",
+        "poster": "https://www.herzing.edu/sites/default/files/2020-09/how-to-become-software-engineer.jpg",
+        "author_image": "https://cdn.devdojo.com/users/March2022/infosahinur.jpg",
+        "read_time": 8,
+        "publish_date": "Jan 12 (08 Days ago)"
+    },
+    {
+        "id": 4,
+        "author_name": "Mahdee Al-Amin",
+        "title": "How was your previous work experience at Amazon?",
+        "poster": "https://media.gettyimages.com/id/1189253638/photo/this-picture-shows-the-logo-of-us-online-retail-giant-amazon-at-the-distribution-center-in.jpg?s=612x612&w=gi&k=20&c=NaNH2Z1SG0lka7u4ssS4pi1EGMakN8GoOZLTwGy8vEY=",
+        "author_image": "https://avatars.githubusercontent.com/u/86532373?v=4",
+        "read_time": 12,
+        "publish_date": "May 12 (24 Days ago)"
+    }
+]
